@@ -1,14 +1,14 @@
 /**
- * \file		tmr.c
+ * \file	tmr.c
  *
- * \brief		Handles all setup and updating of the timers used
- *				throughout the project.  It sets up a global clock and 
- *				sets timeouts as increments from the current clock to 
- *				effectively use as many clocks as necessary.
+ * \brief	Handles all setup and updating of the timers used
+ *		throughout the project.  It sets up a global clock and 
+ *		sets timeouts as increments from the current clock to 
+ *		effectively use as many clocks as necessary.
  *
  * \copyright	RDV Labs, LLC
- * \date		6/30/2015 10:42:34 PM
- * \author		Ross Yeager
+ * \date	6/30/2015 10:42:34 PM
+ * \author	Ross Yeager
  */ 
 
 #include "tmr.h"
